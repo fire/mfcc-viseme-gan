@@ -8,9 +8,6 @@ LipGAN
 
 ![image](https://drive.google.com/uc?export=view&id=1Y2isqWhUmAeYhbwK54tIqYOX0Pb5oH9w)
 
-# Important Update:
-A new, improved work that can produce significantly more accurate and natural results is available here: https://github.com/Rudrabha/Wav2Lip
-
 ----------
  Features
 ---------
